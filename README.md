@@ -1,6 +1,7 @@
 # Coding Practice
 
 Welcome to my Coding Practice repository. Here you'll find solutions to various LeetCode problems that I have solved.
+[My LeetCode Profile](https://leetcode.com/u/abhayshah31)
 
 ## About
 
